@@ -6,12 +6,12 @@
 
 #### I'm a Software Engineer based in Lagos, Nigeria.
 
-- ⚙️ I use daily: `.react`, `.js`, `.node`, `.sql`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
-- 🌱 Learning more about and studying: **Open Source, TypeScript, CS Algorithms**
-- 💬 Ping me about: **web design**, **Books (Fiction)**, **Rap Music**
-- 📫 Reach me: oguejioforalexander@gmail.com
-- 💜 Interests: Fantasy fiction, Rap music
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+> I use daily: `.react`, `.js`, `.node`, `.sql`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
+> Learning more about and studying: **Open Source, TypeScript, CS Algorithms**
+> Ping me about: **web design**, **Books (Fiction)**
+> Reach me: oguejioforalexander@gmail.com
+> Interests: Fantasy fiction, Rap music
+> Passionate about accessibility and committed to a web that works for everyone
 
 #### Find me around the web 🌎:
 
