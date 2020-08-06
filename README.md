@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/kip-guile/kip-guile/master/dark.jpg)
+
 ### Hi, I'm Alexander 👋
 
 ---
@@ -6,7 +8,7 @@
 
 - ⚙️ I use daily: `.react`, `.js`, `.node`, `.sql`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.yml`, `.sql`
 - 🌱 Learning more about and studying: **Open Source, TypeScript, CS Algorithms**
-- 💬 Ping me about: **web design**, **Books (Fiction)**, **Rap Music**, **mentorship**
+- 💬 Ping me about: **web design**, **Books (Fiction)**, **Rap Music**
 - 📫 Reach me: oguejioforalexander@gmail.com
 - 💜 Interests: Fantasy fiction, Rap music
 - 😄 Passionate about accessibility and committed to a web that works for everyone
