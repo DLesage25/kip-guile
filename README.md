@@ -7,8 +7,8 @@
 #### I'm a Software Engineer based in Lagos, Nigeria.
 
 ```bash
-> I use daily: `.react`, `.js`, `.node`, `.sql`, `.ES6`, `.png`, `.json`, `.sql`
-> Learning more about and studying: Open Source, TypeScript, CS Algorithms**
+> I use daily: `.react`, `.js`, `.node`, `.sql`, `.ES6`, `.git`, `.vscode`, `.sql`
+> Learning more about and studying: Open Source, TypeScript, CS algorithms, data structures
 > Ping me about: Open source, Web development, Books (Fiction)
 > Reach me: oguejioforalexander@gmail.com
 > Interests: Fantasy fiction, Rap music
