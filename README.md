@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/kip-guile/kip-guile/master/dark.jpg)
+![Banner](https://raw.githubusercontent.com/kip-guile/kip-guile/master/new-dark.jpg)
 
 ### Hi, I'm Alexander 👋
 
